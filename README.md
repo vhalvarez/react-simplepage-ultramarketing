@@ -2,7 +2,7 @@
 
 A simple application on a Marketing Page.
 
-[Demo] (https://vhalvarez.github.io/react-simplepage-ultramarketing/#/)
+[Demo](https://vhalvarez.github.io/react-simplepage-ultramarketing/#/)
 
 ![Webpage](public/img/website.png)
 
